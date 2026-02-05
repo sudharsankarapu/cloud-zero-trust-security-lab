@@ -1,0 +1,9 @@
+{
+  "name": "grype-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "lodash": "4.17.11",
+    "express": "4.16.0",
+    "jquery": "2.1.4"
+  }
+}
